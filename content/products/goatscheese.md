@@ -1,6 +1,5 @@
 +++
 description = "Tesco"
-draft = true
 id = 5
 image = "/uploads/cheddar-1.jpg"
 name = "Goats Cheese"
